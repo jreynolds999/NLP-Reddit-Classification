@@ -1,0 +1,11 @@
+python==3.6.4
+
+conda==4.4.10
+html5lib==1.0.1
+jupyter==1.0.0
+matplotlib==2.1.2
+numpy==1.14.0
+pandas==0.22.0
+requests==2.18.4
+scikit-learn==0.19.1
+seaborn==0.8.1
